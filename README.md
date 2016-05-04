@@ -1,3 +1,5 @@
+:-)
+
 # Caskroom-fonts
 
 [![Build Status](https://travis-ci.org/caskroom/homebrew-fonts.svg?branch=master)](https://travis-ci.org/caskroom/homebrew-fonts)
